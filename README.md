@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AshJacobve
 - 👀 I’m interested in gaming and music
-- 🌱 I’m currently learning coding 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: ismeashjacob@gmail.com
+- 🌱 I’m currently learning Front-end
+- 💞️ I’m looking for an internship or any collaborative work
+- 📫 How to reach me: vazhayilashwin@gmail.com
 
 <!---
 AshJacobve/AshJacobve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
